@@ -1,0 +1,15 @@
+Modularity / Separation of Concerns/Responsibilities / Layering / N-Tiers
+
+Encapsulation: Internal State, Behaviour
+Outsiders or Collaborators shouldnt be allowed direct access of state. Only through getters and setters (Interface / Public Contract).
+
+
+MVC:
+MVC stands for Model, View and Controller.
+Model represents the data
+View is the User Interface.
+Controller is the request handler.
+
+Loose Coupling:
+In an object-oriented design, classes should be designed in a loosely coupled way.
+Loosely coupled means changes in one class should not force other classes to change.
